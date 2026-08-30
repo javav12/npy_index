@@ -1,0 +1,4 @@
+[packages.test]
+version = "1.0.0"
+repo = None
+description = "test"
