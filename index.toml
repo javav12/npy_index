@@ -2,3 +2,8 @@
 version = "1.0.0"
 repo = "None"
 description = "test"
+
+[packages.base]
+version = "0.0.1"
+repo = "https://github.com/javav12/nuve_base_lib.git"
+description = "temel ozellikler"
